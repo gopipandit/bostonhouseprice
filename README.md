@@ -10,38 +10,32 @@
 
 ## Create a new enviroment for:-
 
-```
-conda create -p boston python==3.8 -y
-```
+```conda create -p boston python==3.8 -y```
 
-```
-conda activate boston/
-```
-
-```
-To check and set user name & email id
-git config --global user.name
-git config --global user.email
-```
+##Conda activate
+```conda activate boston/```
 
 
 
-#To add any particular file in githib
-```
-git add (file_name)
-```
+##To check and set user name & email id
+```git config --global user.name```
+```git config --global user.email```
 
-#To add all the files in githib
-```
-git add .
-```
+
+
+
+##To add any particular file in githib
+```git add (file_name)```
+
+
+##To add all the files in githib
+```git add .```
+
 
 ##Git commit
-
 ```git commit -m "message"```
 
 ##Git push
-
 ```git push origin main```
 
 
