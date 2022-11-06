@@ -12,30 +12,36 @@
 
 ```conda create -p boston python==3.8 -y```
 
-##Conda activate
+*Conda activate*
+
 ```conda activate boston/```
 
 
 
-##To check and set user name & email id
+*To check and set user name & email id*
+
 ```git config --global user.name```
 ```git config --global user.email```
 
 
 
 
-##To add any particular file in githib
+*To add any particular file in githib*
+
 ```git add (file_name)```
 
 
-##To add all the files in githib
+*To add all the files in githib*
+
 ```git add .```
 
 
-##Git commit
+*Git commit*
+
 ```git commit -m "message"```
 
-##Git push
+*Git push*
+
 ```git push origin main```
 
 
