@@ -33,7 +33,15 @@ git add (file_name)
 
 #To add all the files in githib
 ```
-git add.
+git add .
 ```
+
+##Git commit
+
+```git commit -m "message"```
+
+##Git push
+
+```git push origin main```
 
 
